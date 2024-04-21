@@ -1,4 +1,4 @@
-name: production-on
+name: preview_on_pr_update
 
 on:
   pull_request:
