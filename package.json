@@ -1,0 +1,11 @@
+{
+  "name": "github-workflow",
+  "version": "1.0.0",
+  "description": "github workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tara Chand Kumawat",
+  "license": "MIT"
+}
